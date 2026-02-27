@@ -64,3 +64,26 @@ Kelas  : A<br>
 | *= |<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/9118b4ca-ed04-457b-9874-dd66e4b2192a" />
 | /= |<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/f51c2320-c268-4c64-a731-6c0fca67e729" />
 | ~/= |<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b8f115e7-5e0b-43d4-b0b4-84adbaf8867a" />
+
+## Control Flow
+### Percabangan
+|Nama|Dokumentasi|
+|---|---|
+| if, else if, else |<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e2e9ed2c-00c1-4f55-8234-253f6811df1f" />
+| switch case |<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/aebeaeae-8c5d-42b6-b4f1-abfcdd623d2a" />
+
+### Ternary
+|Nama|Dokumentasi|
+|---|---|
+| Ternary |<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/5e05e233-1fc1-457f-9bed-f4a2a1ace4c0" />
+
+### For
+|Nama|Dokumentasi|
+|---|---|
+| For |<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/9cb1e829-0c95-4121-b07e-423393ca4757" />
+| For In (didlm list) |<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/90c53248-4cb3-4708-a67f-cb7f956f67ce" />
+| For In (didlm set) |<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/894eae6d-f835-4656-8145-bf31570fac40" />
+| For In (didlm map) |<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c2081405-8eda-4113-a86a-eaa6ba3107dd" />
+| Foreach (didlm list) |<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/43211f03-37da-4481-8c58-108412d82cfa" />
+| Foreach (didlm set) |<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e12b70fe-0809-4b50-af7d-94774cb4d735" />
+| Foreach (didlm map) |<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/5856421b-b58f-438d-8647-fea2298aebbe" />
