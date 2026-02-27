@@ -87,3 +87,19 @@ Kelas  : A<br>
 | Foreach (didlm list) |<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/43211f03-37da-4481-8c58-108412d82cfa" />
 | Foreach (didlm set) |<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e12b70fe-0809-4b50-af7d-94774cb4d735" />
 | Foreach (didlm map) |<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/5856421b-b58f-438d-8647-fea2298aebbe" />
+
+## Function
+|Nama|Dokumentasi|
+|---|---|
+| Fungsi tanpa return |<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/d1f5144f-99ad-4ad9-977d-9f94545b84d4" />
+| Fungsi dengan return |<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ca7e5a73-20fc-43bd-a091-28018732ec41" />
+
+## Null Safety
+|Nama|Dokumentasi|
+|---|---|
+| Non Nullable Variable |<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b15b4082-ff92-4d0b-bc16-69d85a4ce818" />
+| Nullable Variable |<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/86bedabd-b5dc-4735-b2ee-5f497ba35978" />
+| Null Check |<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/084177c5-1e43-4092-baec-8a74964e9e50" />
+| Deafult Value (??) |<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c818e74a-e35e-4b70-a625-d5a173742b43" />
+| Null Asertion |<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/4955c6e8-a839-4eff-940c-a2830a7a0c79" />
+| Late Variable |<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/5f93f195-7a0a-4b9e-9a48-266682bda48b" />
