@@ -23,6 +23,8 @@ Kelas  : A<br>
 
 ## Variable
 ### Mutable
+|Nama|Dokumentasi|
+|---|---|
 |Var|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/787d0cf5-93f6-4d08-a2c8-6d95eb3ef7b1" />
 |Dynamic|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/02c35fa4-face-4274-8c43-3776f0f736af" />
 
