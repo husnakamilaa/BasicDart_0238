@@ -34,4 +34,33 @@ Kelas  : A<br>
 |Final|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/8b557543-8be1-4cd0-a8b6-fcb3cb459f5b" />
 |Const|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/3dfa2b87-1c73-4d38-ad53-dc4c836a4718" />
 
+## Operator
+### Aritmatika
+|Nama|Dokumentasi|
+|---|---|
+|Penjumlahan|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/96e97b7f-ea08-4582-8f86-c1d1bc74430b" />
+|Pengurangan|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/402613ea-bc08-40ab-8b91-e89fb72913d3" />
+|Perkalian|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/d1cc8528-acb7-4e53-8753-7c0e4bb5f41c" />
+|Pembagian (Bilangan Desimal)|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/4288034a-e717-42b6-a43b-f1202b4c7ba5" />
+|Pembagian (Bilangan Bulat)|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/05c2e8c1-18e6-47d7-b902-caec014900ed" />
+|Modulus (Sisa Bagi)|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/7b413d90-f0a3-436d-9ed1-7d8e8030929d" />
 
+### Perbandingan
+|Nama|Dokumentasi|
+|---|---|
+| == |<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/9da8b193-9235-4bae-9d07-3181b8b48587" />
+| != |<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/69368638-6b6e-4697-99f4-21341ddddbea" />
+| > |<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/583c88c5-e1f3-49a8-95c6-7691b5c1be17" />
+| < |<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/a8a792e7-106f-466a-bf1e-d187fe3b649e" />
+| >= |<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/8b4516c8-b99b-4b5c-9c1f-8e1dc138b35e" />
+| <= |<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/67f5873e-ddb6-4cc6-8c6f-4149fa976a03" />
+
+### Penugasan
+|Nama|Dokumentasi|
+|---|---|
+| = |<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/fff0f592-f988-43e9-8803-c56435dee3cf" />
+| += |<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/5df2eaab-8dcb-489b-b40e-badfb3cc72ae" />
+| -= |<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/d1701188-3f6f-4ec2-8fde-5cc92bb55084" />
+| *= |<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/9118b4ca-ed04-457b-9874-dd66e4b2192a" />
+| /= |<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/f51c2320-c268-4c64-a731-6c0fca67e729" />
+| ~/= |<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b8f115e7-5e0b-43d4-b0b4-84adbaf8867a" />
