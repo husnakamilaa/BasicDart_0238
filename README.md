@@ -4,11 +4,19 @@ Kelas  : A<br>
 
 # Basic Dart Dokumentation 
 
-|Jenis|Nama|Dokumentasi|
-|---|---|---|
-|Tipe Data|Numbers|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/48c7e554-160e-4e02-8e82-23153bdcc7de" />|
-|Tipe Data|String|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/bb032881-a77e-4cd4-a9e2-4440ee005b9c" />
-Tipe Data|List|<img width="1920" height="1200" alt="image" src="" />|
-|Tipe Data|List|<img width="1920" height="1200" alt="image" src="" />
-Tipe Data|List|<img width="1920" height="1200" alt="image" src="" />|
-|Tipe Data|List|<img width="1920" height="1200" alt="image" src="" />
+## Tipe Data
+|Nama|Dokumentasi|
+|---|---|
+|Numbers|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/48c7e554-160e-4e02-8e82-23153bdcc7de" />|
+|String|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/bb032881-a77e-4cd4-a9e2-4440ee005b9c" />
+|List|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/af3c2e8b-5c89-4324-98bb-dd3e36314958" />|
+|List(mengakses item by index)|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/24a6c9aa-c8c5-4cd9-9650-0495754a6bc8" />|
+|List(menambahkan item)|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/a3baae09-7662-472a-818a-658192ab2b4c" />
+|List(menghapus item)|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/1cba996b-7902-4599-9ca1-0981e8f1e317" />|
+|List(mengubah item|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/cff3765b-0003-47f0-b2a6-0715edc9942f" />
+|set|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ae178b21-501f-4c48-acff-322101ab9b6b" />
+|Map|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/635945c9-3607-4b65-b12c-5b89c3aa3f3a" />
+|Map(mengakses nilai by key)|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ccc4cee8-6101-43ed-8caa-821a412f0b28" />
+|Map(mengubah nilai)|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/4c0ef1d0-586e-44eb-a2dc-253b2b44c18f" />
+|Map(menambahkan key baru)|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/f1ff8362-8448-4b85-9652-ea8cb2d63e27" />
+|Map(menghapus key|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/d7b64aaa-9b85-4a96-a314-f28d55d129e1" />
