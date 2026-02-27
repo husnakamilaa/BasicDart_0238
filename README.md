@@ -29,6 +29,8 @@ Kelas  : A<br>
 |Dynamic|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/02c35fa4-face-4274-8c43-3776f0f736af" />
 
 ### Immutable
+|Nama|Dokumentasi|
+|---|---|
 |Final|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/8b557543-8be1-4cd0-a8b6-fcb3cb459f5b" />
 |Const|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/3dfa2b87-1c73-4d38-ad53-dc4c836a4718" />
 
