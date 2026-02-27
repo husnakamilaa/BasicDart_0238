@@ -19,4 +19,15 @@ Kelas  : A<br>
 |Map(mengakses nilai by key)|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ccc4cee8-6101-43ed-8caa-821a412f0b28" />
 |Map(mengubah nilai)|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/4c0ef1d0-586e-44eb-a2dc-253b2b44c18f" />
 |Map(menambahkan key baru)|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/f1ff8362-8448-4b85-9652-ea8cb2d63e27" />
-|Map(menghapus key|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/d7b64aaa-9b85-4a96-a314-f28d55d129e1" />
+|Map(menghapus key)|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/d7b64aaa-9b85-4a96-a314-f28d55d129e1" />
+
+## Variable
+### Mutable
+|Var|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/787d0cf5-93f6-4d08-a2c8-6d95eb3ef7b1" />
+|Dynamic|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/02c35fa4-face-4274-8c43-3776f0f736af" />
+
+### Immutable
+|Final|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/8b557543-8be1-4cd0-a8b6-fcb3cb459f5b" />
+|Const|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/3dfa2b87-1c73-4d38-ad53-dc4c836a4718" />
+
+
